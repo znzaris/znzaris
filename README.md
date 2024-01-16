@@ -14,11 +14,12 @@ Tools: VS Code
 🎓 Recent graduate with a degree in Software Engineer.
 💼 Actively seeking opportunities to contribute my skills and knowledge to meaningful projects.
 🌐 Exploring new technologies and frameworks to stay on the cutting edge of the tech world.
+
 🌟 Key Skills:
 
 Full-stack development
 API design and integration
 Software testing and quality assurance
-Continuous integration and deployment (CI/CD)
+
 
 
